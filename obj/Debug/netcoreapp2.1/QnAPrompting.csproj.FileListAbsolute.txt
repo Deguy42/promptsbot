@@ -1,0 +1,15 @@
+C:\Projects\bots\dotnet\promptsbot\obj\Debug\netcoreapp2.1\QnAPrompting.csprojAssemblyReference.cache
+C:\Projects\bots\dotnet\promptsbot\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Projects\bots\dotnet\promptsbot\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Projects\bots\dotnet\promptsbot\bin\Debug\netcoreapp2.1\QnAPrompting.deps.json
+C:\Projects\bots\dotnet\promptsbot\bin\Debug\netcoreapp2.1\QnAPrompting.runtimeconfig.json
+C:\Projects\bots\dotnet\promptsbot\bin\Debug\netcoreapp2.1\QnAPrompting.runtimeconfig.dev.json
+C:\Projects\bots\dotnet\promptsbot\bin\Debug\netcoreapp2.1\QnAPrompting.dll
+C:\Projects\bots\dotnet\promptsbot\bin\Debug\netcoreapp2.1\QnAPrompting.pdb
+C:\Projects\bots\dotnet\promptsbot\obj\Debug\netcoreapp2.1\QnAPrompting.RazorAssemblyInfo.cache
+C:\Projects\bots\dotnet\promptsbot\obj\Debug\netcoreapp2.1\QnAPrompting.RazorAssemblyInfo.cs
+C:\Projects\bots\dotnet\promptsbot\obj\Debug\netcoreapp2.1\QnAPrompting.AssemblyInfoInputs.cache
+C:\Projects\bots\dotnet\promptsbot\obj\Debug\netcoreapp2.1\QnAPrompting.AssemblyInfo.cs
+C:\Projects\bots\dotnet\promptsbot\obj\Debug\netcoreapp2.1\QnAPrompting.RazorTargetAssemblyInfo.cache
+C:\Projects\bots\dotnet\promptsbot\obj\Debug\netcoreapp2.1\QnAPrompting.dll
+C:\Projects\bots\dotnet\promptsbot\obj\Debug\netcoreapp2.1\QnAPrompting.pdb
